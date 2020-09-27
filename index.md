@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Cześć
 
 You can use the [editor on GitHub](https://github.com/MalgorzataPrucnal/MalgorzataPrucnal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
